@@ -1,0 +1,47 @@
+Arquitetura e Urbanismo
+Ciência da Computação
+Educação do Campo
+Física
+Geologia
+Informática
+Matemática
+Química
+Agronomia
+Astronomia
+Biofísica
+Ciências Contábeis
+Ciências Econômicas
+Engenharia Aeroespacial
+Engenharia Aeronáutica
+Engenharia Agrícola
+Engenharia de Alimentos
+Engenharia Ambiental
+Engenharia Biomédica
+Engenharia Cartográfica
+Engenharia Civil
+Engenharia de Computação
+Engenharia de Controle e Automação
+Engenharia Elétrica
+Engenharia Física
+Engenharia Florestal
+Engenharia Geológica
+Engenharia de Manufatura
+Engenharia de Materiais
+Engenharia Mecânica
+Engenharia Mecatrônica
+Engenharia Metalúrgica
+Engenharia Naval e Oceânica
+Engenharia Nuclear
+Engenharia de Pesca
+Engenharia de Petróleo
+Engenharia de Produção
+Engenharia Química
+Engenharia Sanitária
+Engenharia de Sistemas Eletrônicos
+Engenharia de Software
+Engenharia de Tecidos
+Engenharia de Telecomunicações
+Estatística
+Geofísica
+Geologia
+Sistemas de Informação
